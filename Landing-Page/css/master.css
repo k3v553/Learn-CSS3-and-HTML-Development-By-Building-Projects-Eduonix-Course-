@@ -31,3 +31,25 @@ h4 {
 .clearfix {
   clear: both;
 }
+header#main-header {
+  border-bottom: 4px solid #00e1ff;
+
+}
+img#logo {
+  margin: auto;
+  display: block;
+}
+#main-text {
+  text-align: center;
+  color: #333;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+#sub1 {
+  float: left;
+  width: 48%;
+}
+#sub2 {
+  float: right;
+  width: 48%;
+}
